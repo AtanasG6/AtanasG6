@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Atanas Gyulchev
-- 👀 I’m interested in Front-End Development.
-- 🌱 I’m currently learning JavaScript at SoftUni, Bulgaria.
+- 👋 Hi, I’m Atanas Gyulchev - a software engineering student
+- 👀 I’m interested in .NET Development.
+- 🌱 I’m currently learning C# at PU "Paisii Hilendarski", Bulgaria.
 - 💞️ I’m looking to collaborate on basic projects.
 - 📫 How to reach me?
       email: gyulchev666@gmail.com

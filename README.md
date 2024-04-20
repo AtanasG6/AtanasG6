@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi, I’m Atanas Gyulchev!;I’m a software engineering student)](https://git.io/typing-svg)
+
+
 - 👋 Hi, I’m Atanas Gyulchev - a software engineering student
 - 👀 I’m interested in .NET Development.
 - 🌱 I’m currently learning C# at PU "Paisii Hilendarski", Bulgaria.

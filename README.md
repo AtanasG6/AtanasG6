@@ -1,4 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7627D&random=false&width=435&lines=Hi%2C+I%E2%80%99m+Atanas+Gyulchev!;I%E2%80%99m+a+software+engineering+student.)](https://git.io/typing-svg)
+
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,html,css,git,github,mysql" />
+  </a>
+</p>
+
 - 👋 Hi, I’m Atanas Gyulchev - a software engineering student
 - 👀 I’m interested in .NET Development.
 - 🌱 I’m currently learning C# at PU "Paisii Hilendarski", Bulgaria.

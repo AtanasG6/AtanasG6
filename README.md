@@ -94,5 +94,5 @@ Languages and frameworks I've actually built with, grouped by where they sit:
 </div>
 
 <div align="center">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/AtanasG6/AtanasG6/output/github-contribution-grid-snake-dark.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/AtanasG6/AtanasG6/output/github-snake-dark.svg"/>
 </div>

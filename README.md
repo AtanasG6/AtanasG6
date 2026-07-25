@@ -21,16 +21,25 @@
 
 ## About
 
-Software engineering student at Plovdiv University *"Paisii Hilendarski"*, building
+```csharp
+public class AtanasGyulchev : SoftwareEngineer
+{
+    public string Location   => "Plovdiv, Bulgaria 🇧🇬";
+    public string University => "Paisii Hilendarski";
+    public string Role       => "Full Stack Developer";
+
+    public string[] Backend  => new[] { ".NET", "ASP.NET Core", "Node.js", "Express" };
+    public string[] Frontend => new[] { "React", "TypeScript", "Tailwind" };
+    public string[] DevOps   => new[] { "Docker", "Git", "SQL Server" };
+
+    public string CurrentFocus => "Shipping full flows: API → frontend → Docker";
+    public string Motto        => "Learn by building, breaking and fixing.";
+}
+```
+
+I'm a software engineering student at Plovdiv University *"Paisii Hilendarski"*, building
 full-stack apps in .NET, React and Node.js. Most of my repositories are APIs and the
 frontends that consume them – I learn a stack by shipping something end to end with it.
-
-Right now I'm working through building complete flows: a REST API, a frontend that
-talks to it, and a Docker setup that runs the whole thing.
-
-- Based in Plovdiv, Bulgaria
-- Full-stack: ASP.NET Core and Express on the back, React on the front
-- Reach me at gyulchev666@gmail.com
 
 ## Tech stack
 
@@ -55,6 +64,21 @@ talks to it, and a Docker setup that runs the whole thing.
     <td><img src="https://skillicons.dev/icons?i=postman,visualstudio,vscode&theme=dark"/></td>
   </tr>
 </table>
+
+## In short
+
+```bash
+$ whoami
+> Atanas Gyulchev — Full Stack Developer @ Plovdiv
+
+$ cat stack.txt
+> backend:  .NET · ASP.NET Core · Node.js
+> frontend: React · TypeScript · Tailwind
+> devops:   Docker · SQL Server · Git
+
+$ echo $CURRENT_FOCUS
+> Building complete flows end to end 🚀
+```
 
 ## A few things I've built
 

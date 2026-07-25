@@ -61,22 +61,22 @@ talks to it, and a Docker setup that runs the whole thing.
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/AtanasG6/MobileApps2025-2301321018"><b>Weather Travel Planner</b></a><br/>
-      Android app in Kotlin that plans trips around the weather forecast.
+      <a href="https://github.com/AtanasG6/resolva"><b>Resolva</b></a><br/>
+      Helpdesk / ticketing system in Java 21, with BDD acceptance tests written in Cucumber.
     </td>
     <td width="50%">
-      <a href="https://github.com/AtanasG6/Movies_API"><b>Movies API</b></a><br/>
-      A REST API in ASP.NET Core for managing a movie catalogue.
+      <a href="https://github.com/AtanasG6/MobileBgScraper"><b>MobileBg Scraper</b></a><br/>
+      C# console scraper that pulls car-listing details from mobile.bg using AngleSharp.
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/AtanasG6/dotnet-rpg"><b>dotnet-rpg</b></a><br/>
-      RPG backend in ASP.NET Core with JWT auth and Entity Framework.
+      <a href="https://github.com/AtanasG6/CG_Project"><b>CG Project</b></a><br/>
+      Computer-graphics drawing application built in C#.
     </td>
     <td width="50%">
-      <a href="https://github.com/AtanasG6/Supermarket_System_MVC"><b>Supermarket System</b></a><br/>
-      An ASP.NET Core MVC app for managing a small supermarket.
+      <a href="https://github.com/AtanasG6/software-modeling-and-analysis-se"><b>Software Modeling &amp; Analysis</b></a><br/>
+      Data-modeling coursework — conceptual, logical &amp; physical models — at Plovdiv University.
     </td>
   </tr>
 </table>

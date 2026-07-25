@@ -1,12 +1,12 @@
 <!-- ═══════════════════════ HEADER WAVE ═══════════════════════ -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,45:6366F1,100:A855F7&height=210&section=header&text=Atanas%20Gyulchev&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Backend%20Developer%20%7C%20.NET%20%C2%B7%20Node.js%20%C2%B7%20React&descSize=18&descAlignY=58&animation=fadeIn"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,45:6366F1,100:A855F7&height=210&section=header&text=Atanas%20Gyulchev&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20.NET%20%C2%B7%20React%20%C2%B7%20Node.js&descSize=18&descAlignY=58&animation=fadeIn"/>
 </div>
 
 <!-- ═══════════════════════ TYPING ═══════════════════════ -->
 <div align="center">
   <a href="https://github.com/AtanasG6">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=6366F1&center=true&vCenter=true&width=720&lines=Building+clean+backend+APIs;.NET+%C2%B7+ASP.NET+Core+%C2%B7+Express;Learning+by+building%2C+breaking+%26+fixing"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=6366F1&center=true&vCenter=true&width=720&lines=Full-stack+developer%2C+backend+at+heart;.NET+%C2%B7+React+%C2%B7+Node.js+%C2%B7+Docker;Learning+by+building%2C+breaking+%26+fixing"/>
   </a>
 </div>
 
@@ -22,14 +22,14 @@
 ## About
 
 Software engineering student at Plovdiv University *"Paisii Hilendarski"*, building
-backend services in .NET and Node.js. Most of my repositories are APIs and the small
-apps that consume them – I learn a stack by shipping something end to end with it.
+full-stack apps in .NET, React and Node.js. Most of my repositories are APIs and the
+frontends that consume them – I learn a stack by shipping something end to end with it.
 
 Right now I'm working through building complete flows: a REST API, a frontend that
 talks to it, and a Docker setup that runs the whole thing.
 
 - Based in Plovdiv, Bulgaria
-- Backend focus: ASP.NET Core, Express, some Django and Spring Boot
+- Full-stack: ASP.NET Core and Express on the back, React on the front
 - Reach me at gyulchev666@gmail.com
 
 ## Tech stack

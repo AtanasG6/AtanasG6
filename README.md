@@ -82,12 +82,7 @@ Languages and frameworks I've actually built with, grouped by where they sit:
   </tr>
 </table>
 
-### GitHub stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AtanasG6&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtanasG6&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
-</div>
+### Activity
 
 <div align="center">
   <img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=AtanasG6&theme=github-compact&hide_border=true&area=true"/>

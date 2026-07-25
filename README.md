@@ -23,7 +23,7 @@
 
 Software engineering student at Plovdiv University *"Paisii Hilendarski"*, building
 backend services in .NET and Node.js. Most of my repositories are APIs and the small
-apps that consume them — I learn a stack by shipping something end to end with it.
+apps that consume them – I learn a stack by shipping something end to end with it.
 
 Right now I'm working through building complete flows: a REST API, a frontend that
 talks to it, and a Docker setup that runs the whole thing.
@@ -76,7 +76,7 @@ talks to it, and a Docker setup that runs the whole thing.
     </td>
     <td width="50%">
       <a href="https://github.com/AtanasG6/software-modeling-and-analysis-se"><b>Software Modeling &amp; Analysis</b></a><br/>
-      Data-modeling coursework — conceptual, logical &amp; physical models — at Plovdiv University.
+      Data-modeling coursework – conceptual, logical &amp; physical models – at Plovdiv University.
     </td>
   </tr>
 </table>

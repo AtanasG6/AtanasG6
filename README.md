@@ -1,85 +1,98 @@
+<table>
+  <tr>
+    <td width="64%" valign="top">
+
+## Atanas Gyulchev
+
+Software engineering student at Plovdiv University *"Paisii Hilendarski"*,
+building backend services in .NET and Node.js. Most of my repositories are
+APIs and the small apps that consume them — I learn a stack by shipping
+something end to end with it.
+
+Right now I'm working through building complete flows: a REST API, a frontend
+that talks to it, and a Docker setup that runs the whole thing.
+
+- Based in Plovdiv, Bulgaria
+- Backend focus: ASP.NET Core, Express, some Django and Spring Boot
+- Reach me at gyulchev666@gmail.com
+
+    </td>
+    <td width="36%" valign="top" align="center">
+      <img src="assets/profile.jpg" width="200" alt="Atanas Gyulchev" style="border-radius:14px;"/>
+    </td>
+  </tr>
+</table>
+
+### Tech I work with
+
+Languages and frameworks I've actually built with, grouped by where they sit:
+
+<table>
+  <tr>
+    <td>Backend</td>
+    <td><img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,express,py,django,spring&theme=dark" alt="backend"/></td>
+  </tr>
+  <tr>
+    <td>Frontend</td>
+    <td><img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrap&theme=dark" alt="frontend"/></td>
+  </tr>
+  <tr>
+    <td>Data &amp; DevOps</td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker,git,github&theme=dark" alt="devops"/>
+      <img height="48" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="sqlserver" valign="middle"/>
+    </td>
+  </tr>
+  <tr>
+    <td>Tools</td>
+    <td><img src="https://skillicons.dev/icons?i=postman,visualstudio,vscode&theme=dark" alt="tools"/></td>
+  </tr>
+</table>
+
+### A few things I've built
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/AtanasG6/MobileApps2025-2301321018">
+        <b>Weather Travel Planner</b>
+      </a><br/>
+      Android app in Kotlin that plans trips around the weather forecast.
+    </td>
+    <td width="50%">
+      <a href="https://github.com/AtanasG6/Movies_API">
+        <b>Movies API</b>
+      </a><br/>
+      A REST API in ASP.NET Core for managing a movie catalogue.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/AtanasG6/dotnet-rpg">
+        <b>dotnet-rpg</b>
+      </a><br/>
+      RPG backend in ASP.NET Core with JWT auth and Entity Framework.
+    </td>
+    <td width="50%">
+      <a href="https://github.com/AtanasG6/Supermarket_System_MVC">
+        <b>Supermarket System</b>
+      </a><br/>
+      An ASP.NET Core MVC app for managing a small supermarket.
+    </td>
+  </tr>
+</table>
+
+### GitHub stats
+
 <div align="center">
-
-## 👋 Hey there, I'm Atanas Gyulchev  
-### Software Engineering Student · Backend-focused Developer
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
-
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AtanasG6&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtanasG6&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
 </div>
 
----
-
-## 🧠 Who am I?
-I’m a **software engineering student** who enjoys building **clean backend APIs** and connecting them to real-world applications.
-
-- 🎓 Studying Software Engineering at **Plovdiv University “Paisii Hilendarski”**
-- 🧩 Focused on **backend logic, APIs, and integrations**
-- ⚙️ Comfortable switching between **.NET** and **Node.js**
-- 🚀 Learning by building, breaking, and fixing things
-
----
-
-## 🛠️ Technologies I Work With
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,express,react,docker,postman,mysql,git,github" />
-
+  <img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=AtanasG6&theme=github-compact&hide_border=true&area=true"/>
 </div>
 
----
-
-## 🔍 What I Like Building
-- 🔗 RESTful APIs with **.NET (ASP.NET Core)** and **Express.js**
-- 🔐 Authentication & authorization (JWT, middleware)
-- 🧪 API testing & debugging with **Postman**
-- 🐳 Containerized apps using **Docker**
-- ⚛️ Simple frontends with **React** to consume APIs
-
----
-
-## 📦 Toolbox
-```text
-Backend     : .NET · ASP.NET Core · Express.js
-Frontend    : React · HTML · CSS
-Databases   : MySQL · SQL basics
-DevOps      : Docker · Git · GitHub
-API Tools   : Postman · REST · JSON
-```
-
----
-
-## 🎯 Current Focus
-- 🚀 Building full **API → Frontend → Docker** workflows
-- 🧼 Writing cleaner, more readable code
-- 🧠 Improving problem-solving and architecture thinking
-
----
-
-## 🌱 Mindset
-> Code doesn’t have to be perfect — it has to be **understandable**.  
-> Clean code today beats clever code tomorrow.
-
----
-
-## 📬 Let’s Connect
 <div align="center">
-
-<a href="mailto:gyulchev666@gmail.com">
-  <img src="https://img.shields.io/badge/Email-gyulchev666@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://github.com/atanasg6">
-  <img src="https://img.shields.io/badge/GitHub-atanasg6-black?style=for-the-badge&logo=github" />
-</a>
-
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/AtanasG6/AtanasG6/output/github-contribution-grid-snake-dark.svg"/>
 </div>
-
----
-
-<div align="center">
-
-🛠️ *Building APIs, learning systems, getting better every day.*
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>

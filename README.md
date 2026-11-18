@@ -28,7 +28,7 @@ public class AtanasGyulchev : SoftwareEngineer
     public string University => "Paisii Hilendarski";
     public string Role       => "Full Stack Developer";
 
-    public string[] Backend  => new[] { ".NET", "ASP.NET Core", "Node.js", "Express" };
+    public string[] Backend  => new[] { ".NET", "ASP.NET Core", "Node.js", "Express", "FastAPI", "Quarkus" };
     public string[] Frontend => new[] { "React", "TypeScript", "Tailwind" };
     public string[] DevOps   => new[] { "Docker", "Git", "SQL Server" };
 
@@ -46,7 +46,7 @@ frontends that consume them – I learn a stack by shipping something end to end
 <table>
   <tr>
     <td valign="middle"><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,express,py,django,spring&theme=dark"/></td>
+    <td><img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,express,py,fastapi,django,spring,quarkus&theme=dark"/></td>
   </tr>
   <tr>
     <td valign="middle"><b>Frontend</b></td>
@@ -72,7 +72,7 @@ $ whoami
 > Atanas Gyulchev — Full Stack Developer @ Plovdiv
 
 $ cat stack.txt
-> backend:  .NET · ASP.NET Core · Node.js
+> backend:  .NET · ASP.NET Core · Node.js · FastAPI · Quarkus
 > frontend: React · TypeScript · Tailwind
 > devops:   Docker · SQL Server · Git
 

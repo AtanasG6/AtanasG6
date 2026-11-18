@@ -46,7 +46,10 @@ frontends that consume them – I learn a stack by shipping something end to end
 <table>
   <tr>
     <td valign="middle"><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,express,py,fastapi,django,spring,quarkus&theme=dark"/></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,express,py,fastapi,django,spring&theme=dark"/>
+      <img height="48" src="https://img.shields.io/badge/Quarkus-4695EB?style=flat-square&logo=quarkus&logoColor=white" valign="middle"/>
+    </td>
   </tr>
   <tr>
     <td valign="middle"><b>Frontend</b></td>

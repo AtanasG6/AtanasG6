@@ -6,7 +6,7 @@
 <!-- ═══════════════════════ TYPING ═══════════════════════ -->
 <div align="center">
   <a href="https://github.com/AtanasG6">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=6366F1&center=true&vCenter=true&width=720&lines=Full-stack+developer%2C+backend+at+heart;.NET+%C2%B7+React+%C2%B7+Node.js+%C2%B7+Docker;Learning+by+building%2C+breaking+%26+fixing"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=6366F1&center=true&vCenter=true&width=720&lines=Full-stack+developer%2C+backend+at+heart;.NET+%C2%B7+FastAPI+%C2%B7+Quarkus+%C2%B7+React+%C2%B7+Node.js+%C2%B7+Docker;Learning+by+building%2C+breaking+%26+fixing"/>
   </a>
 </div>
 
